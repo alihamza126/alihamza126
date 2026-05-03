@@ -1,84 +1,202 @@
-# ALi Hamza 👋
-
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+
+# Hi, I'm Ali Hamza 👋
+### Full Stack Engineer • MERN Developer • React Native Developer • AI Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;React+%7C+Next.js+%7C+React+Native;NestJS+%7C+Django+%7C+Node.js;AI+Powered+Application+Developer;Building+Scalable+Web+%26+Mobile+Apps" />
+
+<br/>
+
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif" width="700"/>
+
 </div>
 
-</br>
-</br>
-</br>
+---
 
+# 🚀 About Me
 
-# About ME 💬 :
+💻 Full-Stack Engineer with **2+ years of experience** building scalable web and mobile applications.
 
-### - I'm 3+ years old Machine Learning & Artificial Intelligence Enthusiast from Pakistan.
+🌍 Experienced in developing products for international and Middle East clients using modern technologies like:
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+- ⚡ React.js / Next.js
+- 📱 React Native
+- 🛠️ NestJS / Node.js / Django
+- 🤖 AI & LLM Integrations
+- 🔥 Firebase & Real-Time Systems
+- 💳 Stripe & Crypto Payment Systems
+- ☁️ AWS / GCP / Docker
 
-### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
+🎯 Passionate about building:
+- AI-powered products
+- Real-time applications
+- High-performance systems
+- Beautiful UI/UX experiences
 
-### - Hobbies :
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+---
 
-</br>
-</br>
-</br>
+# 🧠 Currently Learning
 
+- ✨ Advanced System Design
+- ✨ AI Agents & LLM Architectures
+- ✨ Microservices & Scalable Backend Systems
+- ✨ Machine Learning with TensorFlow.js
 
+---
 
-# Languages & Tools 👨‍💻 🛠:
-</br>
+# 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
 
-<!-- For more icons please follow https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
-</p>
-</br>
-</br>
-</br>
+## Frontend
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,redux,firebase" />
 
+## Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,mongodb,mysql,postgres,redis" />
 
+## Mobile Development
+<img src="https://skillicons.dev/icons?i=react" />
+<br/>
+React Native • Android • iOS • Push Notifications • App Deployment
 
-# Contact Me :
+## Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,nginx" />
 
-<p>
-</br>
+## Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 
+</div>
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+---
 
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
-<img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+# 💼 Experience
+
+## 🚀 Full Stack Engineer — Dev Decorators
+📍 Lahore, Pakistan | 2024 - 2025
+
+- Built scalable web & mobile applications using MERN, Django, and NestJS.
+- Developed real-time vehicle service booking systems.
+- Built React Native referral applications with improved engagement.
+- Developed AI-powered chatbot systems with intelligent moderation.
+- Contributed to backend architecture optimization and performance improvements.
+
+---
+
+## 💻 Frontend Engineer — Enigmatix
+📍 Bahawalpur, Pakistan | 2022 - 2023
+
+- Worked on scalable MERN applications and real-time systems.
+- Engineered an ad platform serving 10,000+ users.
+- Improved system performance by 70%.
+- Built payment systems, analytics dashboards, and ad delivery systems.
+
+---
+
+# 🚀 Featured Projects
+
+## 🔥 TheReferralPro
+🌐 https://www.thereferralpro.com/
+
+Referral-based mobile & web platform.
+
+### Tech Used:
+`React Native` `React.js` `Django` `PostgreSQL` `Firebase` `AWS` `Stripe`
+
+### Features:
+- Cross-platform mobile app
+- Real-time referral tracking
+- Stripe payment integration
+- Firebase notifications
+- Redux Saga state management
+
+---
+
+## 🚗 VehiQuick
+🌐 https://www.vehiquick.com/
+
+Real-time roadside assistance application.
+
+### Tech Used:
+`React Native` `Firebase` `Google APIs` `Zustand`
+
+### Features:
+- Live location tracking
+- Real-time updates
+- Emergency roadside services
+- Optimized mobile performance
+
+---
+
+## 🎓 The Capital Academy
+🌐 https://thecapitalacademy.online
+
+AI-powered online learning platform.
+
+### Tech Used:
+`Next.js` `Node.js` `MongoDB` `Redux` `Tailwind CSS`
+
+### Features:
+- E-learning system
+- Secure authentication
+- AI-based learning features
+- Responsive modern UI
+
+---
+
+## 💰 AccountDeal
+🌐 http://www.accountdeal.com
+
+Marketplace for buying & selling social media assets securely.
+
+### Tech Used:
+`Next.js` `Node.js` `PostgreSQL` `Firebase` `Socket.io`
+
+### Features:
+- Secure escrow system
+- Real-time chat
+- Crypto payments
+- High-speed communication system
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:alihamzah.dev@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 </a>
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
-<img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
+
+<a href="https://www.linkedin.com/in/ali-hamza-4aa31021a">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
-
-
-<p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
-</p>
 
-*************
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ “Building scalable digital experiences with modern technologies.”
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>

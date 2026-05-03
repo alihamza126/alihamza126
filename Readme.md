@@ -26,22 +26,6 @@
 - 🔥 Firebase & Real-Time Systems
 - 💳 Stripe & Crypto Payment Systems
 - ☁️ AWS / GCP / Docker
-
-🎯 Passionate about building:
-- AI-powered products
-- Real-time applications
-- High-performance systems
-- Beautiful UI/UX experiences
-
----
-
-# 🧠 Currently Learning
-
-- ✨ Advanced System Design
-- ✨ AI Agents & LLM Architectures
-- ✨ Microservices & Scalable Backend Systems
-- ✨ Machine Learning with TensorFlow.js
-
 ---
 
 # 🛠️ Tech Stack
@@ -72,7 +56,7 @@ React Native • Android • iOS • Push Notifications • App Deployment
 # 💼 Experience
 
 ## 🚀 Full Stack Engineer — Dev Decorators
-📍 Lahore, Pakistan | 2024 - 2025
+📍 Lahore, Pakistan
 
 - Built scalable web & mobile applications using MERN, Django, and NestJS.
 - Developed real-time vehicle service booking systems.
@@ -82,15 +66,6 @@ React Native • Android • iOS • Push Notifications • App Deployment
 
 ---
 
-## 💻 Frontend Engineer — Enigmatix
-📍 Bahawalpur, Pakistan | 2022 - 2023
-
-- Worked on scalable MERN applications and real-time systems.
-- Engineered an ad platform serving 10,000+ users.
-- Improved system performance by 70%.
-- Built payment systems, analytics dashboards, and ad delivery systems.
-
----
 
 # 🚀 Featured Projects
 

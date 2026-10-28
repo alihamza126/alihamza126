@@ -3,7 +3,7 @@
 # Hi, I'm Ali Hamza 👋
 ### Full Stack Engineer • MERN Developer • React Native Developer • AI Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer;React+%7C+Next.js+%7C+React+Native;Node.js+%7C+NestJS+%7C+Django+%7C+Python;TypeScript+%7C+MongoDB+%7C+PostgreSQL;AI+Powered+Application+Developer;Building+Scalable+Web+%26+Mobile+Apps" />
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer;React+%7C+Next.js+%7C+React+Native;Node.js+%7C+NestJS+%7C+Django+%7C+Python;TypeScript+%7C+MongoDB+%7C+PostgreSQL;AI+Powered+Application+Developer;Building+Scalable+Web+%26+Mobile+Apps" /> -->
 
 <br/>
 
